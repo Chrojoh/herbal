@@ -1,0 +1,7 @@
+{
+  "name": "Herbal Reference Database",
+  "description": "A comprehensive botanical guide with smart search, AI-powered voice readings, and immersive slideshows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
